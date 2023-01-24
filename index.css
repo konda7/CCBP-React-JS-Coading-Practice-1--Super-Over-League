@@ -1,0 +1,28 @@
+/* Write your code here. */
+
+body {
+  margin: 0;
+}
+
+.bg-container {
+  background-color: #0f172a;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.text {
+  font-family: Roboto;
+  font-size: 30px;
+  color: #f8fafc;
+}
+
+/* .image-container {
+  width: 60%;
+} */
+
+.image {
+  width: 200px;
+}
